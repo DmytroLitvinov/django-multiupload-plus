@@ -6,7 +6,7 @@ Test utils.
 
 from django import forms
 
-from multiupload.fields import MultiFileField
+from multiupload_plus.fields import MultiFileField
 
 
 class UploadTestForm(forms.Form):

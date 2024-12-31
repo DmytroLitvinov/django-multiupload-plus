@@ -1,6 +1,6 @@
 from django import forms
 
-from multiupload.fields import MultiFileField
+from multiupload_plus.fields import MultiFileField
 
 from .models import Message, Attachment
 

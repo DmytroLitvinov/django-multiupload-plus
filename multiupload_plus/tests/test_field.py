@@ -8,7 +8,7 @@ from django import forms
 from django.test import TestCase
 from django.core.files.uploadedfile import SimpleUploadedFile
 
-from multiupload.fields import MultiFileField
+from multiupload_plus.fields import MultiFileField
 
 from .utils import UploadTestForm
 
